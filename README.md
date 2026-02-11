@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Varsha BR;💻+Python Full Stack Intern;🚀+Web Tech;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/varsha04-coder">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=F875AA&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=varsha04-coder&label=Profile+Views&color=F875AA&style=flat-square" />
 
 </div>
 
@@ -47,14 +47,12 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python  
+• Web Tech
+• JavaScript
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django 
 
 ### 💅 Frontend
 • React / Vue / Angular  
@@ -78,9 +76,9 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=varsha04-coder&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varsha04-coder&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -90,7 +88,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsha=04-coder&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -98,10 +96,10 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
+### 🔹 E-commerce Websote
 **Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**Tech Stack:** HTML, CSS, JS
+**GitHub:** https://github.com/varsha04-coder/PROJECT_REPO  
 
 ---
 
@@ -134,9 +132,9 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
-🌐 Portfolio: YOUR_PORTFOLIO_URL  
+📧 Email: varshabr1204@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/varsha-br/  
+🌐 Portfolio: https://varsha-br.netlify.app/
 
 ---
 
